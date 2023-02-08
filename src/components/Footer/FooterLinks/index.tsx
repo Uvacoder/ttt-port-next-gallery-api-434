@@ -8,12 +8,12 @@ export default function FooterLinks() {
     const links = [
         {
             icon: <LinkedinLogo size={24} weight="fill" />,
-            link: 'https://linkedin.com/in/lucianosants',
+            link: 'https://linkedin.com/in/alecbcampbell',
             sr_only: 'Linkedin',
         },
         {
             icon: <GithubLogo size={24} weight="fill" />,
-            link: 'https://github.com/lucianosants',
+            link: 'https://github.com/uvacoder',
             sr_only: 'Github',
         },
         {
